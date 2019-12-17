@@ -16,7 +16,7 @@ on:
 
 jobs:
   my_testing:
-    runs-on: [ubuntu-latestxzx]
+    runs-on: [ubuntu-latest]
     
     steps:
       - name: Print nice message from Testing Job
